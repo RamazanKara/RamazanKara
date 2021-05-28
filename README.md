@@ -5,5 +5,5 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RamazanKara&layout=compact&theme=chartreuse-dark&custom_title=WakaTime stats since Sep 18 2020"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=emre1702&layout=compact&theme=chartreuse-dark&custom_title=WakaTime stats since May 29 2021"/>
 </p>
