@@ -1,7 +1,7 @@
 <p> 
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=RamazanKara&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=prs"/>
 
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamazanKara&langs_count=10&layout=compact&theme=chartreuse-dark&hide=smarty"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamazanKara&langs_count=10&layout=default&theme=chartreuse-dark&hide=smarty"/>
 </p>
 
 <p>
