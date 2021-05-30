@@ -5,5 +5,5 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RamazanKara&layout=default&theme=chartreuse-dark&custom_title=Coding Activity in the last week"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RamazanKara&layout=default&theme=chartreuse-dark&custom_title=Coding Activity in the last week (other=Terminal)"/>
 </p>
