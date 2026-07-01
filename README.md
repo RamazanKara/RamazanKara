@@ -1,7 +1,7 @@
 <h2 align="center">Kubernetes Platform &amp; Edge Engineer</h2>
 
 <p align="center">
-  Lead architect of the edge &amp; compute platform behind <a href="https://www.otto.de">otto.de</a>
+  Architect of the edge &amp; compute platform behind <a href="https://www.otto.de">otto.de</a>
   &nbsp;·&nbsp; Founder of <a href="https://fluentorbit.de"><b>FluentOrbit</b></a><br/>
   <sub>Sovereign, private AI platforms on Kubernetes — for teams that can't hand their data to someone else's cloud.</sub>
 </p>
